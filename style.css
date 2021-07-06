@@ -46,7 +46,6 @@ body {
   color: orange;
 }
 /* ===================== About Me ====================== */
-
 .about-me {
   background-image: url(./images//shapes/7.png);
   background-repeat: no-repeat;
@@ -152,6 +151,7 @@ body {
   color: #18191f;
   font-weight: 400;
 }
+/* ===================== Footer ====================== */
 .footer {
   background: #0b0d17;
   padding: 40px 0;
